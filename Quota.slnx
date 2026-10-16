@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Quota.Cli/Quota.Cli.csproj" />
+    <Project Path="src/Quota.Core/Quota.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Quota.Core.Tests/Quota.Core.Tests.csproj" />
+  </Folder>
+</Solution>
